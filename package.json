@@ -4,6 +4,11 @@
   "version": "1.0.0",
   "type": "module",
   "main": "index.js",
+  "homepage": "https://$USERNAME.github.io/wiki-scroll",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/$USERNAME/wiki-scroll.git"
+  },
   "scripts": {
     "dev": "vite",
     "build": "vite build",
